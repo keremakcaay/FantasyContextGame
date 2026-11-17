@@ -1,0 +1,27 @@
+
+{
+  "gameTitle": "Fantastik Macera",
+  "welcome": "Fantastik Maceraya Hoş Geldin!",
+  "enterName": "İsmini gir...",
+  "changeLanguage": "Dil: Türkçe",
+  "changeTheme": "Temayı Değiştir",
+  "startGame": "Maceraya Başla",
+  "selectClass": "Karakter sınıfını seç",
+  "warrior": "Savaşçı",
+  "mage": "Büyücü",
+  "greeting": "Merhaba, {{playerName}}! {{hp}} can puanın var.",
+  "characterInfo": "Karakter Bilgileri",
+  "name": "İsim",
+  "class": "Sınıf",
+  "health": "Can",
+  "inventory": "Envanter",
+  "emptyInventory": "Envanterin boş.",
+  "takeDamage": "Hasar Al (-10 Can)",
+  "heal": "İyileş (+10 Can)",
+  "findItem": "İksir Bul",
+  "potion": "Can İksiri",
+  "story": "Karanlık bir ormana giriyorsun. Gizemli bir macera başlıyor!",
+  "light": "Açık",
+  "dark": "Koyu",
+    "backToWelcome": "Başlangıç Ekranına Dön"
+}

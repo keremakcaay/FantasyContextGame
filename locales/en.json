@@ -1,0 +1,27 @@
+
+{
+  "gameTitle": "Fantasy Adventure",
+  "welcome": "Welcome to Fantasy Adventure!",
+  "enterName": "Enter your name...",
+  "changeLanguage": "Language: English",
+  "changeTheme": "Change Theme",
+  "startGame": "Start Adventure",
+  "selectClass": "Select your character class",
+  "warrior": "Warrior",
+  "mage": "Mage",
+  "greeting": "Hello, {{playerName}}! You have {{hp}} hit points.",
+  "characterInfo": "Character Information",
+  "name": "Name",
+  "class": "Class",
+  "health": "Health",
+  "inventory": "Inventory",
+  "emptyInventory": "Your inventory is empty.",
+  "takeDamage": "Take Damage (-10 HP)",
+  "heal": "Heal (+10 HP)",
+  "findItem": "Find Potion",
+  "potion": "Health Potion",
+  "story": "You enter a dark forest. A mysterious adventure begins!",
+  "light": "Light",
+  "dark": "Dark",
+    "backToWelcome": "Back to Welcome"
+}
